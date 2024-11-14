@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+}
+body{
+    background-image: url("rFe3Dn.webp");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    background-size: cover;
+    color:white
+}
+#ic{
+    border:10x soid black;
+    border-radius: 5px;
+}
+img{
+    text-align: center;
+}
+form{
+    border:2px solid white;
+    padding: 15px;
+}
+a{
+    text-decoration: none;
+}
+#sb:hover{
+background-color: lightgreen;
+}
+#rs:hover{
+    background-color: tomato;
+}
+#em:hover{
+    border: 2px solid blue;
+    }
+    #ps:hover{
+        border: 2px solid blue;
+        }
